@@ -1,3 +1,7 @@
+import java.util.Arrays;
+
+import java.util.Arrays;
+
 public class bubbleSort {
     public static void main(String[] args) {
         int [] arr={3,2,7,10,8,4,0,1,6,5};
